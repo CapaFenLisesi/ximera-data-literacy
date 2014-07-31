@@ -36,6 +36,11 @@ This is a [Ximera](ximera.osu.edu) course aimed at the general population to dev
   	  	* math dept 2 players, ec dept 20 players, music 5 players in NCAA tourneys
   	  	  small depts: tend to do max, min (since effect of each player is larger)
   	  	  large depts: tend to do about average (since effect of each player is smaller)
+    * growth
+      * constant
+      * linear
+      * quadratic and higher order polynomial
+      * exponential
 * biases
   * selection bias vs treatment
   * confirmation bias
