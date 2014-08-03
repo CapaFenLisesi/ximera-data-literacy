@@ -50,7 +50,10 @@ This is a [Ximera](ximera.osu.edu) course aimed at the general population to dev
   * positive and negative feedback
      * cognition and epistemology
      * Metcalfe's law and other network effects
-     * technilogical lock-in (+)
+     * technological lock-in (+)
+       Arthur, W. B. Competing technologies, increasing returns, 
+       and lock-in by historical events. 
+       Economic Journal 99, 116–31 (1989)
        * Facebook
        * Betamax, laser discs
        * start-up failure
@@ -83,3 +86,10 @@ This is a [Ximera](ximera.osu.edu) course aimed at the general population to dev
       * MIT student project to guess sexual orientation
       * Using visited links to guess gender
       * browser fingerprint (Panopticlick@EFF)
+
+Bibliography
+============
+The dynamics of correlated novelties
+F. Tria, V. Loreto, V. D. P. Servedio & S. H. Strogatz
+Scientific Reports 4, Article number: 5890 doi:10.1038/srep05890
+http://www.nature.com/srep/2014/140731/srep05890/full/srep05890.html
